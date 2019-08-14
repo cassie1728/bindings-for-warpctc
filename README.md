@@ -23,4 +23,3 @@ cuda9.0
 
 gcc5.5.0
 
-site-packages文件在warpctc_pytorch-0.1文件夹中，暂时没有在lib中找到libwarpctc.so文件。
